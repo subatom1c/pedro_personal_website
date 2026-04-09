@@ -1,0 +1,100 @@
+{
+  "personalInfo": {
+    "name": "Pedro",
+    "title": "Estudante de Engenharia Química",
+    "email": "seu.email@exemplo.com",
+    "phone": "+55 (XX) 9XXXX-XXXX",
+    "university": "Universidade [Nome]"
+  },
+  "about": {
+    "shortBio": "Sou um estudante dedicado de Engenharia Química, apaixonado por entender os processos que fazem o mundo funcionar.",
+    "interests": [
+      "Tecnologias sustentáveis",
+      "Otimização de processos industriais",
+      "Inovação química",
+      "Green chemistry"
+    ]
+  },
+  "education": {
+    "degree": "Engenharia Química",
+    "institution": "Universidade [Nome]",
+    "status": "Em andamento",
+    "mainDisciplines": [
+      "Termodinâmica",
+      "Transferência de Calor e Massa",
+      "Operações Unitárias",
+      "Cinética e Reatores Químicos",
+      "Simulação e Modelagem"
+    ]
+  },
+  "skills": [
+    {
+      "title": "Processos Químicos",
+      "description": "Design e otimização de processos industriais"
+    },
+    {
+      "title": "Simulação",
+      "description": "ASPEN Plus, MATLAB, Python para modelagem"
+    },
+    {
+      "title": "Laboratório",
+      "description": "Técnicas experimentais e análise de dados"
+    },
+    {
+      "title": "Comunicação Técnica",
+      "description": "Documentação e apresentação de projetos"
+    },
+    {
+      "title": "Sustentabilidade",
+      "description": "Processos eco-friendly e green chemistry"
+    },
+    {
+      "title": "Programação",
+      "description": "Python, MATLAB, VBA"
+    }
+  ],
+  "hobbies": [
+    {
+      "icon": "⚽",
+      "title": "Futebol",
+      "description": "Adorei jogar futebol! Quando tenho tempo livre, nada melhor do que estar em campo, trabalhando em equipe com os amigos."
+    },
+    {
+      "icon": "🎴",
+      "title": "Pokémon TCG",
+      "description": "Sou colecionador e jogador de Pokémon Trading Card Game. Gosto do desafio estratégico do jogo e dessa comunidade apaixonada."
+    },
+    {
+      "icon": "🔬",
+      "title": "Pesquisa",
+      "description": "Sempre procuro por oportunidades para aprofundar meus conhecimentos e resolver problemas complexos."
+    },
+    {
+      "icon": "📚",
+      "title": "Leitura",
+      "description": "Leio artigos científicos e livros sobre tecnologia. A leitura me ajuda a manter-me atualizado com as tendências."
+    },
+    {
+      "icon": "💻",
+      "title": "Tecnologia",
+      "description": "Aprecio programação e desenvolvimento de ferramentas. Gosto de explorar como a tecnologia resolve problemas reais."
+    },
+    {
+      "icon": "🌍",
+      "title": "Sustentabilidade",
+      "description": "Tenho interesse em práticas sustentáveis e tecnologias limpas para contribuir com uma Engenharia mais responsável."
+    }
+  ],
+  "contact": {
+    "email": "seu.email@exemplo.com",
+    "linkedin": "https://linkedin.com/in/seuperfil",
+    "github": "https://github.com/seuusuario",
+    "instagram": "https://instagram.com/seuusuario"
+  },
+  "design": {
+    "primaryColor": "#667eea",
+    "secondaryColor": "#764ba2",
+    "fontFamily": "Segoe UI, Tahoma, Geneva, Verdana, sans-serif",
+    "gradientStart": "135deg, #667eea 0%, #764ba2 100%"
+  }
+}
